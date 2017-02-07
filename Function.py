@@ -1,7 +1,7 @@
 """Define a function that will take a parameter, n, and triple it and return
 the result"""
 
-
+def 
 
 
 
